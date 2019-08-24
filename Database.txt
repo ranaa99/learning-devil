@@ -1,0 +1,4 @@
+
+Database's are the core component of the System 
+
+We have SQL and No-SQL databases
