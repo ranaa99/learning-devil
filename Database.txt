@@ -4,3 +4,5 @@ Database's are the core component of the System
 We have SQL and No-SQL databases
 
 MongoDB and Couchbase and Redis and MySQL
+
+The first 3 are No Sql Databases and last one is SQL Database
